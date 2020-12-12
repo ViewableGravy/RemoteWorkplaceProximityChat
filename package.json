@@ -1,0 +1,16 @@
+{
+  "name": "RemoteWorkplaceProximityChat",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViewableGravy/RemoteWorkplaceProximityChat.git"
+  },
+  "homepage": "https://github.com/ViewableGravy/RemoteWorkplaceProximityChat#readme",
+  "dependencies": {
+    "electron": "^11.1.0"
+  }
+}
